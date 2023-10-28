@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 855.05015 205.33902"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="palestine_banner.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   width="226.23199mm"
+   height="54.329281mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">palestine</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1"
+     inkscape:cx="428.5"
+     inkscape:cy="108.5"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7"
+     inkscape:document-units="mm" />
+  <style
+     id="style1">&#10;@namespace svg url(http://www.w3.org/2000/svg);&#10;&#10;svg {&#10;  font-family: Helvetica, Arial, sans-serif;&#10;  text-rendering: geometricPrecision;&#10;}&#10;svg|a:link, svg|a:visited {&#10;  cursor: pointer;&#10;}&#10;.flag-blue {&#10;  fill: #0056b3;&#10;}&#10;.flag-yellow {&#10;  fill: #ffd700;&#10;}&#10;.message {&#10;  fill: white;&#10;  font-size: 18px;&#10;}&#10;.call {&#10;  fill: black;&#10;  font-size: 22px;&#10;}&#10;.arrow {&#10;  font-size: 14px;&#10;}&#10;</style>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1"
+       bendpath="M -0.06338368,10.448925 H 152.03009"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false"
+       hide_knot="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1"
+       radius="10"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       id="round-corners">
+      <rect
+         width="100%"
+         height="100%"
+         rx="3"
+         id="rect1"
+         x="0"
+         y="0" />
+    </clipPath>
+    <linearGradient
+       id="s"
+       x2="0"
+       y2="55.136196"
+       gradientTransform="matrix(5.7977984,0,0,1.1964048,102.07335,296.73811)"
+       x1="0"
+       y1="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#bbb"
+         stop-opacity=".1"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-opacity=".1"
+         id="stop2" />
+    </linearGradient>
+    <clipPath
+       id="r">
+      <rect
+         width="152"
+         height="20"
+         rx="3"
+         fill="#ffffff"
+         id="rect2-7"
+         x="0"
+         y="0" />
+    </clipPath>
+    <linearGradient
+       id="s-5"
+       x2="0"
+       y2="55.136196"
+       gradientTransform="scale(2.7568098,0.36273813)"
+       x1="0"
+       y1="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#bbb"
+         stop-opacity=".1"
+         id="stop1-0" />
+      <stop
+         offset="1"
+         stop-opacity=".1"
+         id="stop2-3" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath66">
+      <rect
+         style="fill:#f9f9f9;fill-opacity:1;stroke-width:2.20286"
+         id="rect66"
+         width="855.05157"
+         height="205.33902"
+         x="-57.212727"
+         y="278.95908"
+         ry="25.186199" />
+    </clipPath>
+  </defs>
+  <a
+     id="a1"
+     target="_blank"
+     xlink:href="https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md">
+    <g
+       id="g30"
+       transform="translate(57.212726,-278.95908)"
+       clip-path="url(#clipPath66)">
+      <rect
+         width="864.95227"
+         height="216.45566"
+         fill="url(#s)"
+         id="background"
+         x="-60.691669"
+         y="272.32364"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:7.81893"
+         ry="0"
+         sodipodi:type="rect" />
+      <g
+         id="g1">
+        <rect
+           style="fill:#b1b1b1;fill-opacity:1;stroke-width:1.00794"
+           id="rect9"
+           width="856.4068"
+           height="52.781807"
+           x="-57.71767"
+           y="432.2034"
+           ry="0"
+           sodipodi:type="rect" />
+        <text
+           xml:space="preserve"
+           style="font-size:32px;white-space:pre;inline-size:324.197;display:inline;fill:#000000;fill-opacity:1"
+           x="312.35446"
+           y="440.84811"
+           id="text2"
+           transform="translate(-102.42327,26.194133)"><tspan
+             x="312.35446"
+             y="440.84811"
+             id="tspan1">Help Palestien Now ⇨ </tspan></text>
+      </g>
+      <g
+         id="palestine"
+         transform="matrix(30.626717,0,0,51.160388,-57.60204,278.72629)">
+        <rect
+           fill="#009639"
+           width="6"
+           height="3"
+           id="green_part"
+           x="0"
+           y="0"
+           sodipodi:type="rect" />
+        <rect
+           fill="#ffffff"
+           width="6"
+           height="2"
+           id="white_part"
+           x="0"
+           y="0"
+           sodipodi:type="rect" />
+        <rect
+           width="6"
+           height="1"
+           id="black_part"
+           x="0"
+           y="0"
+           sodipodi:type="rect" />
+        <path
+           fill="#ed2e38"
+           d="M 0.00273363,0 2.7679965,1.5 0.00273363,3 Z"
+           id="red_part"
+           style="stroke-width:1.17585" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:18.6667px;white-space:pre;inline-size:652.408;display:inline;fill:#1d2733;fill-opacity:1;stroke-width:2.63501"
+         x="165.42729"
+         y="287.49854"
+         id="text1"
+         transform="matrix(0.9532525,0,0,1.04904,-7.446637,10.31265)"><tspan
+           x="165.42729"
+           y="287.49854"
+           id="tspan11"><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan7">Israel kills thousands of innocent people every day in </tspan><tspan
+             style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#f20000"
+             id="tspan9">palestine</tspan><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan10"> amid silence </tspan></tspan><tspan
+           x="165.42729"
+           y="310.87725"
+           id="tspan17"><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan12">from the </tspan><tspan
+             style="font-style:italic;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
+             id="tspan13">international community</tspan><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan14"> and </tspan><tspan
+             style="font-style:italic;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
+             id="tspan15">Western countries</tspan><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan16"> that claim democracy, </tspan></tspan><tspan
+           x="165.42729"
+           y="334.21063"
+           id="tspan21"><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan18">freedom and justice, but in reality they are liars and have </tspan><tspan
+             style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+             id="tspan19">double standards</tspan><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan20">.&#10;</tspan></tspan><tspan
+           x="165.42729"
+           y="357.544"
+           id="tspan23"><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan22">Please let us help them to live and have their land back, Spread the truth </tspan></tspan><tspan
+           x="165.42729"
+           y="380.92272"
+           id="tspan26"><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan24">everywhere so that the world knows the truth about these </tspan><tspan
+             style="font-style:italic;font-family:Arial;-inkscape-font-specification:'Arial Italic'"
+             id="tspan25">murderous Zionists</tspan></tspan></text>
+    </g>
+  </a>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>palestine</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
