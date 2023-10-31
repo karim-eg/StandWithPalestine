@@ -8,6 +8,7 @@ __Here's the list of the most zionist Supporter companies and softwares.__
   - Wix.com    (website)
   - eToro      (website)
   - Intel      (website)
+  - MyHeritage (website)
   - Viber      (application)
   - 365 Scores (application)
 
