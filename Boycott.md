@@ -7,6 +7,7 @@ __Here's the list of the most zionist Supporter companies and softwares.__
   - Fiverr     (website)
   - Wix.com    (website)
   - eToro      (website)
+  - Intel      (website)
   - Viber      (application)
   - 365 Scores (application)
 
