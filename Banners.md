@@ -5,20 +5,20 @@
 
 # Badges
 ### Badge Preview:
-[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
 
 
 ```
-[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
 ```
 
 <br>
 
 # Banners
 ### banner Preview:
-[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md)
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md)
 
 
 ```
-[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md)
+[![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md)
 ```
