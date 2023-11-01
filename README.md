@@ -13,7 +13,7 @@ __The occupying Zionist entity kills thousands of innocent people every day in t
 
 __📺 See all the crimes and massacres of the Zionist occupation against the people of Gaza (<a href="https://encept.notion.site/fb9b47539672461ea8767cc60914ae7e?v=becbc29a0fb642e7aed82193e0fc5294" target="_blank">Occupation crimes</a>).__
 > Warning 🔞: The link contains cruel and bloody images that are not suitable for everyone.
-
+ 
 <br>
 
 ## How You Can Help
