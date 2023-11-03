@@ -39,4 +39,9 @@ __📺 See all the crimes and massacres of the Zionist occupation against the pe
 - **`Mekeg`**  <a href="https://mekeg.org/donations/show/cause/894">(donate)</a>
 - **`Unicef`** <a href="https://help.unicef.org/ob/donate-to-children">(donate)</a>
 
+> Discover more at <a href="https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md">donation page</a>
 
+<br>
+
+## Finally
+**Please Share This Repo Everywhere, Use The Palestine Banners & Badges, Don't Ignore The Case Because You Might Save Someone's Life 💛**
