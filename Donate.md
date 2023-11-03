@@ -1,10 +1,5 @@
-## Donate To Palestine
-
-- **Bitcoin**:
-  `3Q8H2ZWMtc4R1M3mkmhnTjCoYKTeCFigDP`
-
-- **Etherum (erc-20)**:
-  `0x21B8d56BDA776bbE68655A16895afd96F5534feD`
-
-> These donation wallets are from <a href="https://t.me/gazaalannet">**Gaza Now**</a>.
-
+## Donate To Help Palestine
+💵 **You Can Donate To Any Charity Below:**
+- **`Mersal`** <a href="https://mersal-ngo.org/Donation">(donate)</a>
+- **`Mekeg`**  <a href="https://mekeg.org/donations/show/cause/894">(donate)</a>
+- **`Unicef`** <a href="https://help.unicef.org/ob/donate-to-children">(donate)</a>
