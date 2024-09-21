@@ -260,7 +260,7 @@ __Here's the list of the most zionist Supporter companies and softwares.__
 <br>
 
 - __Products__ 🚫
-  > Scan any product barcode using <a href="https://play.google.com/store/apps/details?id=co.encept.muqataa">`Muqataa`</a> App to check whether this product is supporting zionest or not.
+  > Scan any product barcode using <a href="https://play.google.com/store/apps/details?id=co.encept.muqataa">`Muqataa`</a> App to check whether this product is supporting zionist or not.
   - McDonald's
   - KFC
   - Burger King
