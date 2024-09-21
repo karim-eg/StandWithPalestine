@@ -24,7 +24,7 @@ __📺 See all the crimes and massacres of the Zionist occupation against the pe
   - You Can Donate To Help Them (<a href="https://github.com/karim-eg/StandWithPalestine/blob/main/Donate.md">**See All Donation Methods**</a>).
 - ❌ **Boycott**:
   - You Can Boycott Any Israeli Products (use <a href="https://play.google.com/store/apps/details?id=co.encept.muqataa" target="_blank">**Muqataa app**</a> to scan products barcode).
-  - You Can Cancel Any Subscription At Any Israeli Company (Don't give them your money to kill children in Gaza).
+  - You Can Cancel Any Subscription At Any Israeli Company (Don't give them your money to kill the childrens in Gaza).
   - Don't Use Any Israeli Softwares, Websites, Applications, Products (<a href="https://github.com/karim-eg/StandWithPalestine/blob/main/Boycott.md">**see full Boycott list**</a>).
   - Don't Take Any Information From The Zionist News Channels Like (BBC - CNN - FOX News - NBC News - OCBS News - NY Times).
 - 📰 **Teach yourself**:
